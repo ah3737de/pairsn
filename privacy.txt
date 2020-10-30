@@ -1,0 +1,26 @@
+Privacy policy
+of app "PairsN",
+version 1.0.12+12
+by Alexander Hausmann
+
+=======
+Does the app use or share any of your personal data ?
+
+No, unless you use personal images in the "$imagesSetName" itemset.
+
+Any data used
+- is not shared,
+- is deleted before or when you uninstall the app,
+- is only used so you can play with enough comfort.
+
+The app does not track how you use the app.
+
+=======
+Does the app change anything on your device outside the app ?
+
+No.
+
+=======
+May this policy change ?
+
+No. Because it is part of this app version. A new app version may use a new policy.
